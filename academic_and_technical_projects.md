@@ -1,6 +1,6 @@
 # Academic & Technical Projects
 
-## Enterprise Network Infrastructure & Security Deployment Project
+## Project 1: Enterprise Network Infrastructure & Security Deployment Project
 **Institution:** Canberra Institute of Technology (CIT)
 
 * **Network & Security Engineering:** Co-engineered a dual-site IPv4 enterprise production network using Cisco C8200L Routers and 9200L Switches, configuring site-to-site IPsec VPN encryption, IEEE 802.1X RADIUS authentication, and Layer 3 ACLs.
@@ -9,7 +9,7 @@
 
 ---
 
-## Campus Network Architecture Design Project
+## Project 2: Campus Network Architecture Design Project
 **Institution:** University of Canberra (UC)
 
 * **Architecture Design:** Co-designed a scalable Core/Distribution/Access campus network prototype in Cisco Packet Tracer following Cisco Validated Design (CVD) principles.
@@ -17,7 +17,7 @@
 
 ---
 
-## Digital Transformation & API Systems Integration Case Study
+## Project 3: Digital Transformation & API Systems Integration Case Study
 **Institution:** University of Canberra (UC)
 
 * **Operational Assessment:** Evaluated technological options to resolve manual "phantom stock" issues and siloed accounting data for a commercial enterprise.
