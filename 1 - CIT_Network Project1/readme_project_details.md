@@ -8,6 +8,8 @@
 
 ### Guidelines
 
+<img width="359" height="356" alt="project1_diagram" src="https://github.com/user-attachments/assets/22594fb8-cfe0-4f1b-89da-757bb54549b1" />
+
 #### Hardware
 Each group will have access to the following hardware to create your prototype topology:
 * **3x** Cisco Routers
