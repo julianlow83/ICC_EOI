@@ -43,7 +43,7 @@ An additional pre-configured Cisco Router will be provided to simulate your inte
 | **2** | Network Device Configs | IOS configs for the devices |
 | **3** | Network Topology Diagram | Self-explanatory; using draw.io |
 | **4** | Network Test Proofs | Screenshots of the ping and failover tests |
-| **5** | Intranet Web Root | A mock HTML locally hosted website for the web server |
+| **5** | Intranet Website | A mock HTML locally hosted website for the web server |
 | **6** | Custom Ping Test App Prototype Only | Mock prototype of the Python ping / SSH test app used |
 | **7** | Presentation Slides | PowerPoint presentation on the final day |
 | **8** | Lab Photos | Photos of us working in the lab (no faces) |
