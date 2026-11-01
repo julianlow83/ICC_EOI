@@ -13,10 +13,10 @@ Stage 3: A video presentation and slid deck, more of a condensed summary of Stag
 
 **Skills Highlighted**
 
-Socio-Technical Problem Solving & Business Analysis 
+- Socio-Technical Problem Solving & Business Analysis 
 
-Multi-Format Communication & Jargon Translation 
+- Multi-Format Communication & Jargon Translation 
 
-Stakeholder Management & Organizational Governance 
+- Stakeholder Management & Organizational Governance 
 
-Receptivity to Peer Feedback & Continuous Improvement 
+- Receptivity to Peer Feedback & Continuous Improvement 
